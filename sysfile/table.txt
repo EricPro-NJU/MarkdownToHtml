@@ -1,0 +1,13 @@
+ex	true
+utf	true
+testfile	true
+testfile_rename	true
+testfile2	false
+testfile3	false
+testfile4	false
+testfile5	false
+testfile6	false
+testfile7	false
+my_html	true
+show	true
+markdown	true
